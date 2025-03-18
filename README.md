@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM2ZGZsbjYyZnh5MzlxdjZqNGhib2NjMG9wZDRnem94ajE4YXU1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="auto">
+</p>
 <br><br>
 
 <div id="user-content-toc">
@@ -73,7 +75,7 @@
 <div id="user-content-toc">
   <ul  style="list-style: none;">
     <summary>
-<h2>🏆 GitHub Trophies</h2>
+<h2> 📊 GitHub Stats</h2>
       </summary>
   </ul>
 </div>
